@@ -20,12 +20,12 @@ namespace СalcBasic
             return CalculateCos(radians);
         }
 
-        public double Dive(double Value1, double Value2)
+        public double Mult(double Value1, double Value2)
         {
             return Value1 * Value2;
         }
 
-        public double Mult(double Value1, double Value2)
+        public double Dive(double Value1, double Value2)
         {
             return Value1 / Value2;
         }

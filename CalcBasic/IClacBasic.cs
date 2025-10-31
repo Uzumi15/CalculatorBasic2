@@ -28,14 +28,14 @@ namespace СalcBasic
         /// <param name="Value1">1е Число</param>
         /// <param name="Value2">2е Число</param>
         /// <returns>ответ(после умножения)</returns>
-        double Dive(double Value1, double Value2);
+        double Mult(double Value1, double Value2);
         /// <summary>
         /// деление
         /// </summary>
         /// <param name="Value1">1е Число</param>
         /// <param name="Value2">2е число</param>
         /// <returns>ответ(после деления)</returns>
-        double Mult(double Value1, double Value2);
+        double Dive(double Value1, double Value2);
         /// <summary>
         /// синус
         /// </summary>
